@@ -9,7 +9,17 @@ p {
 em strong {
 	color: red;
 }
-
+.titulo{
+    text-align: center;
+    background-image: linear-gradient(color rgb(128, 0, 255),rgb(153, 0, 255));
+    color: blueviolet;
+}
+header{
+    padding: 20px;
+    background-color: rgba(218, 17, 175, 0.55);
+    border-bottom: 2px solid black;
+    color: black;
+}
 
 
 
